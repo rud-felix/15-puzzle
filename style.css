@@ -19,5 +19,5 @@ section {margin: 20px 0px}
 #pause-img {display: none}
 #pause, #restart, #count {width: 23%;}
 #count {text-align: center;}
-#pause-img {background: url('/img/pause.gif') no-repeat scroll 50% -29px;width: 100%; height: 75px;margin:0px 10px;}
+#pause-img {background: url('img/pause.gif') no-repeat scroll 50% -29px;width: 100%; height: 75px;margin:0px 10px;}
 #pause:hover, #restart:hover {text-decoration: underline;color: #32CD32}
