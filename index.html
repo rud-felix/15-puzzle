@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>15 puzzle</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header></header>
+    <section>
+        <div class="wrapper">
+            <div class="row">
+                <span id="timer">00:00</span>
+                <span id="count">0</span>
+                <a href="#" class="btn" id="restart" data-control="restart">restart</a>
+                <a href="#" class="btn" id="pause" data-control="pause">pause</a>
+            </div>
+            <div class="row">
+                <div id="block"></div>
+                <div id="pause-img"></div>
+                <div id="info">
+                    <p>Пятнашки - популярная головоломка цель которой упорядочить блоки
+                    по их номерам от 1-го к 15-и желательно сделав как можно меньше перемещений.</p>
+                    <p>Передвигать блоки можно с помощью мыши или клавиатуры.</p>
+                </div>
+            </div>
+            <!--<a href="#" class="btn" id="start" data-control="start">Start</a>-->
+            <script src="app.js"></script>
+        </div>
+    </section>
+    <footer>
+        <div id="donate">
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="42KS4WKAXFTXC">
+                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
+        </div>
+    </footer>
+</body>
+</html>
