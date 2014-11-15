@@ -3,4 +3,6 @@
 Возможности:
 > **Подсказка:** Передвигать блоки можно не только с помощью мыши но и стрелками на клавиатуре.
 
+![Animated screenshots](https://www.dropbox.com/s/imhj18df5hb1rh6/15.gif)
+
 [Играть](http://rud-felix.github.io/15-puzzle/)
