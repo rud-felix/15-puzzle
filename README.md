@@ -1,8 +1,7 @@
 # Игра "Пятнашки"
-Пятнашки - популярная головоломка цель которой упорядочить блоки по их номерам от 1-го к 15-и желательно сделав как можно меньше перемещений.
-Возможности:
-> **Подсказка:** Передвигать блоки можно не только с помощью мыши но и стрелками на клавиатуре.
+The 15 Puzzle is a popular sliding puzzle where the goal is to arrange the tiles in order from 1 to 15, preferably using as few moves as possible.
 
-![Animated screenshots](http://www.imageup.ru/img293/1947395/15.gif)
+Features:
+> **Tip:** You can move the tiles not only with the mouse but also using the arrow keys on your keyboard.
 
-[Играть](http://rud-felix.github.io/15-puzzle/)
+[Play](http://rud-felix.github.io/15-puzzle/)
