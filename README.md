@@ -1,4 +1,4 @@
-# Игра "Пятнашки"
+# 15 Puzzle Game"
 The 15 Puzzle is a popular sliding puzzle where the goal is to arrange the tiles in order from 1 to 15, preferably using as few moves as possible.
 
 Features:
